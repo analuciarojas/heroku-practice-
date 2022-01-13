@@ -1,0 +1,20 @@
+{
+  "name": "heroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/analuciarojas/heroku-practice-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/analuciarojas/heroku-practice-/issues"
+  },
+  "homepage": "https://github.com/analuciarojas/heroku-practice-#readme"
+}
